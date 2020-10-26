@@ -14,3 +14,4 @@ This repository contains some exercises from IEEEXtreme 14 contest.
 | Exercise | Language | Score | Comment |
 |--|--|--|--|
 | Hotel Wiring | C++ | 100 pts |  |
+| Game of Life 2020 | Python | 100 pts |  |
