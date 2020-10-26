@@ -10,8 +10,8 @@ This repository contains some exercises from IEEEXtreme 14 contest.
 ## 👹 Team Daemons
 
 - Ariel Altamirano :octocat: [Ariel2705](https://github.com/Ariel2705)
-- Guillermo Casanova :octocad: [GuillermoMCasanova](https://github.com/GuillermoMCasanova)
-- Jonathan Yépez :octocad: [jayepez8](https://github.com/jayepez8)
+- Guillermo Casanova :octocat: [GuillermoMCasanova](https://github.com/GuillermoMCasanova)
+- Jonathan Yépez :octocat: [jayepez8](https://github.com/jayepez8)
 
 ## 💻 Programming languages
 
