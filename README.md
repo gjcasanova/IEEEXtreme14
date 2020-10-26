@@ -1,6 +1,10 @@
 # 🚀 IEEEXtreme 14 🚀
 This repository contains some exercises from IEEEXtreme 14 contest. 
 
+## 🥇 Participation
+ - First place in Ecuador.
+ - Top 50 in Latin America and the Caribbean (Region R9).
+
 ## 👹 Team Daemons
 - Ariel Altamirano
 - Guillermo Casanova
