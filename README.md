@@ -13,4 +13,4 @@ This repository contains some exercises from IEEEXtreme 14 contest.
 ## 📁 Folders
 | Exercise | Language | Score | Comment |
 |--|--|--|--|
-|  |  |  |  |
+| Hotel Wiring | C++ | 100 pts |  |
