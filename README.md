@@ -16,3 +16,4 @@ This repository contains some exercises from IEEEXtreme 14 contest.
 | Hotel Wiring | C++ | 100.00 pts |  |
 | Game of Life 2020 | Python | 100.00 pts |  |
 | IEEEXplore Indexing | Python | 70.00 pts |  |
+| Non-Overlapping Palindromes | C++ | 60.00 pts |  |
