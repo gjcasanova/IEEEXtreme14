@@ -7,10 +7,6 @@ This repository contains some exercises from IEEEXtreme 14 contest.
 - First place in Ecuador.
 - Top 50 in Latin America and the Caribbean (Region R9).
 
-## 🥇 Participation
- - First place in Ecuador.
- - Top 50 in Latin America and the Caribbean (Region R9).
-
 ## 👹 Team Daemons
 
 - Ariel Altamirano :octocat: [Ariel2705](https://github.com/Ariel2705)
@@ -32,7 +28,7 @@ This repository contains some exercises from IEEEXtreme 14 contest.
 | Mosaic Decoration II        | C++      | 100.00 pts |         |
 | IEEEXplore Indexing         | Python   | 70.00 pts  |         |
 | Non-Overlapping Palindromes | C++      | 60.00 pts  |         |
-| Crafting Wooden Tables      | C++      | 55.56 pts  |         |
+| Crafting Wooden Tables      | C++      | 55.56 pts  | [Full solution](https://github.com/GuillermoMCasanova/IEEEXtreme_Practice_Tasks)|
 | Coupon Codes                | C++      | 50.00 pts  |         |
 | Rescue Mission              | C++      | 28.58 pts  |         |
-| Mosaic Decoration II        | C++      | 26.67 pts  |         |
+| Mosaic Decoration III       | C++      | 26.67 pts  |         |
